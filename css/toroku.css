@@ -1,0 +1,37 @@
+fieldset {
+  width: 400px;
+}
+
+#a {
+    width: 90%;
+    margin:0px;
+    padding:0px;
+    display: flex;
+    justify-content: left;
+}
+
+input {
+    margin:3px;
+    width: 70%;
+    height: 10%;
+}
+
+p {
+    margin:3px;
+    padding:0px;
+}
+
+#b {
+    text-align: right;
+}
+
+textarea {
+    margin:0px;
+    width: 98%;
+    height: 200px;
+}
+
+#b {
+    width: 60px;
+    text-align: center;
+}
